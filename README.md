@@ -13,7 +13,7 @@
 
 ### 🙋‍♂️ About Me
 
-I'm **Piyush Kumar Jha**, a driven **MERN Stack Developer** from India 🇮🇳. I don't just write code — I build products. From a full-featured **AI-powered e-commerce platform** to a **WhatsApp Chat Analyzer**, I love tackling real problems with clean, scalable solutions.
+I'm **Piyush Kumar Jha**, a driven **MERN Stack Developer** from India 🇮🇳. I don't just write code — I build products. From a full-featured **AI-powered e-commerce platform** to a **Weather App**, I love tackling real problems with clean, scalable solutions.
 
 I'm currently on a mission to sharpen my **DSA skills in Java**, deepen my full-stack expertise, and take my first steps into **Machine Learning**.
 
@@ -22,7 +22,7 @@ const piyush = {
   role:        "MERN Stack Developer",
   location:    "India 🇮🇳",
   currentWork: "Cartify — AI-powered MERN E-commerce App",
-  learning:    ["Java DSA", "Next.js", "Machine Learning"],
+  learning:    ["Java DSA", "Machine Learning"],
   askMeAbout:  ["React", "Node.js", "MongoDB", "Express", "REST APIs"],
   funFact:     "I debug in my sleep 😅"
 };
@@ -34,10 +34,8 @@ const piyush = {
 
 | Project | Description | Tech | Links |
 |--------|-------------|------|-------|
-| 🛒 **Cartify** | Full-stack e-commerce app with AI shopping assistant, cart, wishlist, reviews & payment flow | React, Node, MongoDB, Express | [![Live](https://img.shields.io/badge/Live-00C853?style=flat&logo=vercel&logoColor=white)](https://cartifyy-orpin.vercel.app/) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/Piyush079-jha/cartify) |
-| 💬 **WhatsApp Chat Analyzer** | Analyzes WhatsApp chat exports — message stats, activity heatmaps & more | Python | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/Piyush079-jha/WhatsApp-Chat-Analyzer) |
-| 🏠 **House Price Prediction** | ML model to predict house prices based on key features | Python, Jupyter | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/Piyush079-jha/houseprice-prediction) |
-| 🌤️ **Weather App** | Real-time weather app using live API data | JavaScript | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/Piyush079-jha/weatherApp) |
+| 🛒 **Cartify** | Full-stack e-commerce app with AI shopping assistant, cart, wishlist, reviews & payment flow | React, Node, MongoDB, Express, Redux | [![Live](https://img.shields.io/badge/Live-00C853?style=flat&logo=vercel&logoColor=white)](https://cartifyy-orpin.vercel.app/) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/Piyush079-jha/cartify) |
+| 🌤️ **Weather App** | Real-time weather app using live API data | JavaScript | [![Live](https://img.shields.io/badge/Live-00C853?style=flat&logo=vercel&logoColor=white)](https://weatherby-piyush.vercel.app/) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/Piyush079-jha/weatherApp) |
 
 ---
 
@@ -49,6 +47,7 @@ const piyush = {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Backend & Database**
@@ -62,7 +61,6 @@ const piyush = {
 **Languages & Tools**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -71,7 +69,6 @@ const piyush = {
 
 ### 📚 Currently Learning
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Java DSA](https://img.shields.io/badge/Java%20DSA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
@@ -85,7 +82,7 @@ const piyush = {
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Piyush079-jha&theme=tokyonight&hide_border=true" width="55%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush079-jha&theme=tokyonight&hide_border=true" width="55%" />
 </p>
 
 ---

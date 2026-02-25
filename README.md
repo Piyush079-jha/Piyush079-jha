@@ -1,19 +1,24 @@
-<details>
-<summary>Click to expand — Copy everything inside</summary>
-````markdown
 <h1 align="center">Hi there 👋 I'm Piyush Kumar Jha</h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer+%F0%9F%9A%80;Building+Real+World+Products+%F0%9F%92%BB;Java+%7C+DSA+%7C+Problem+Solver+%F0%9F%A7%A0;Turning+Ideas+Into+Reality+%E2%9C%A8" alt="Typing SVG" />
 </p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Piyush079-jha&label=Profile+Views&color=00C853&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/Piyush079-jha?label=Followers&style=flat&color=00C853" alt="followers" />
 </p>
 
-🙋‍♂️ About Me
-I'm Piyush Kumar Jha, a driven MERN Stack Developer from India 🇮🇳. I don't just write code — I build products. From a full-featured AI-powered e-commerce platform to a WhatsApp Chat Analyzer, I love tackling real problems with clean, scalable solutions.
-I'm currently on a mission to sharpen my DSA skills in Java, deepen my full-stack expertise, and take my first steps into Machine Learning.
-javascriptconst piyush = {
+---
+
+### 🙋‍♂️ About Me
+
+I'm **Piyush Kumar Jha**, a driven **MERN Stack Developer** from India 🇮🇳. I don't just write code — I build products. From a full-featured **AI-powered e-commerce platform** to a **WhatsApp Chat Analyzer**, I love tackling real problems with clean, scalable solutions.
+
+I'm currently on a mission to sharpen my **DSA skills in Java**, deepen my full-stack expertise, and take my first steps into **Machine Learning**.
+
+```javascript
+const piyush = {
   role:        "MERN Stack Developer",
   location:    "India 🇮🇳",
   currentWork: "Cartify — AI-powered MERN E-commerce App",
@@ -21,45 +26,72 @@ javascriptconst piyush = {
   askMeAbout:  ["React", "Node.js", "MongoDB", "Express", "REST APIs"],
   funFact:     "I debug in my sleep 😅"
 };
+```
 
-🚀 Featured Projects
-ProjectDescriptionTechLinks🛒 CartifyFull-stack e-commerce app with AI shopping assistant, cart, wishlist, reviews & payment flowReact, Node, MongoDB, ExpressShow Image Show Image💬 WhatsApp Chat AnalyzerAnalyzes WhatsApp chat exports — message stats, activity heatmaps & morePythonShow Image🏠 House Price PredictionML model to predict house prices based on key featuresPython, JupyterShow Image🌤️ Weather AppReal-time weather app using live API dataJavaScriptShow Image
+---
 
-🛠️ Things I Code With
-Frontend
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Backend & Database
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Languages & Tools
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
+### 🚀 Featured Projects
 
-📚 Currently Learning
-Show Image
-Show Image
-Show Image
+| Project | Description | Tech | Links |
+|--------|-------------|------|-------|
+| 🛒 **Cartify** | Full-stack e-commerce app with AI shopping assistant, cart, wishlist, reviews & payment flow | React, Node, MongoDB, Express | [![Live](https://img.shields.io/badge/Live-00C853?style=flat&logo=vercel&logoColor=white)](https://cartifyy-orpin.vercel.app/) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/Piyush079-jha/cartify) |
+| 💬 **WhatsApp Chat Analyzer** | Analyzes WhatsApp chat exports — message stats, activity heatmaps & more | Python | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/Piyush079-jha/WhatsApp-Chat-Analyzer) |
+| 🏠 **House Price Prediction** | ML model to predict house prices based on key features | Python, Jupyter | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/Piyush079-jha/houseprice-prediction) |
+| 🌤️ **Weather App** | Real-time weather app using live API data | JavaScript | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/Piyush079-jha/weatherApp) |
 
-📊 GitHub Stats
+---
+
+### 🛠️ Things I Code With
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**Languages & Tools**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📚 Currently Learning
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Java DSA](https://img.shields.io/badge/Java%20DSA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Piyush079-jha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush079-jha&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Piyush079-jha&theme=tokyonight&hide_border=true" width="55%" />
 </p>
 
-🔗 Connect With Me
+---
+
+### 🔗 Connect With Me
+
 <p align="left">
   <a href="mailto:piyushjha1134@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -70,4 +102,10 @@ Show Image
   <a href="https://github.com/Piyush079-jha" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  <i>⭐ "The best way to learn is to build. So I keep building." ⭐</i>
 </p>

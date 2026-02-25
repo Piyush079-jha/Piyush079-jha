@@ -21,7 +21,7 @@
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 | Project | Description | Tech | Links |
 |--------|-------------|------|-------|
@@ -68,9 +68,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Piyush079-jha&theme=tokyonight" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Piyush079-jha&theme=tokyonight" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Piyush079-jha&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Piyush079-jha&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush079-jha&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter+notebook,python&langs_count=6" width="44%" />
 </p>
 
 <p align="center">

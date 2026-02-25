@@ -68,8 +68,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Piyush079-jha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush079-jha&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="40%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Piyush079-jha&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Piyush079-jha&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Piyush079-jha&theme=tokyonight" width="32%" />
 </p>
 
 <p align="center">

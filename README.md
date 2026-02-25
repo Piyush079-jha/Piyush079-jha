@@ -65,22 +65,10 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Piyush079-jha&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush079-jha&theme=tokyonight&hide_border=true" width="60%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush079-jha&theme=tokyo-night&hide_border=true" width="90%" />
 </p>
 
 ---

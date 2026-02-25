@@ -13,7 +13,7 @@
 
 ### 🙋‍♂️ About Me
 
-- 🔭 I'm currently working on **Cartify** — an AI-powered MERN E-commerce App
+- 🔭 I have built Cartify — an AI-powered MERN E-commerce App
 - 🌱 I'm currently learning **Java DSA** and exploring **Machine Learning**
 - 💬 Ask me about **React, Node.js, MongoDB, Express, REST APIs**
 - 📫 Reach me at **piyushjha1134@gmail.com**

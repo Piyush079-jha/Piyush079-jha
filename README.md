@@ -13,20 +13,11 @@
 
 ### 🙋‍♂️ About Me
 
-I'm **Piyush Kumar Jha**, a driven **MERN Stack Developer** from India 🇮🇳. I don't just write code — I build products. From a full-featured **AI-powered e-commerce platform** to a **Weather App**, I love tackling real problems with clean, scalable solutions.
-
-I'm currently on a mission to sharpen my **DSA skills in Java**, deepen my full-stack expertise, and take my first steps into **Machine Learning**.
-
-```javascript
-const piyush = {
-  role:        "MERN Stack Developer",
-  location:    "India 🇮🇳",
-  currentWork: "Cartify — AI-powered MERN E-commerce App",
-  learning:    ["Java DSA", "Machine Learning"],
-  askMeAbout:  ["React", "Node.js", "MongoDB", "Express", "REST APIs"],
-  funFact:     "I debug in my sleep 😅"
-};
-```
+- 🔭 I'm currently working on **Cartify** — an AI-powered MERN E-commerce App
+- 🌱 I'm currently learning **Java DSA** and exploring **Machine Learning**
+- 💬 Ask me about **React, Node.js, MongoDB, Express, REST APIs**
+- 📫 Reach me at **piyushjha1134@gmail.com**
+- ⚡ Fun fact: I debug in my sleep 😅
 
 ---
 
@@ -77,8 +68,8 @@ const piyush = {
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Piyush079-jha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush079-jha&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Piyush079-jha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush079-jha&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="40%" />
 </p>
 
 <p align="center">
@@ -90,7 +81,7 @@ const piyush = {
 ### 🔗 Connect With Me
 
 <p align="left">
-  <a href="mailto:piyushjha1134@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&to=piyushjha1134@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/piyush-jha1134/" target="_blank">

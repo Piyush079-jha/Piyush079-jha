@@ -68,7 +68,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush079-jha&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://streak-stats.demolab.com/?user=Piyush079-jha&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
 ---

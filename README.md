@@ -26,7 +26,7 @@
 | Project | Description | Tech | Links |
 |--------|-------------|------|-------|
 | 🛒 **Cartify** | Full-stack e-commerce app with AI shopping assistant, cart, wishlist, reviews & payment flow | React, Node, MongoDB, Express, Redux | [![Live](https://img.shields.io/badge/Live-00C853?style=flat&logo=vercel&logoColor=white)](https://cartifyy-orpin.vercel.app/) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/Piyush079-jha/cartify) |
-| 🌤️ Nimbus-Personal-Weather-App | Real-time weather app using live API data | JavaScript | [![Live](https://nimbus-personal-weather-app.vercel.app/) [![Repo](https://github.com/Piyush079-jha/Nimbus-Personal-Weather-App) |
+| 🌤️ **Nimbus Weather** | Real-time personal weather app with AQI, hourly forecast, dark mode & animated backgrounds | HTML, CSS, JavaScript | [![Live](https://img.shields.io/badge/Live-00C853?style=flat&logo=vercel&logoColor=white)](https://nimbus-personal-weather-app.vercel.app/) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/Piyush079-jha/Nimbus-Personal-Weather-App) |
 
 ---
 

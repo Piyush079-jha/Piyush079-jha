@@ -13,7 +13,7 @@
 
 ### 🙋‍♂️ About Me
 
-- 🔭 I have built Cartify — an AI-powered MERN E-commerce App
+- 🔭 I have built Cliniqo — an AI-powered Hospital Management System & Cartify — an AI-powered MERN E-commerce App
 - 🌱 I'm currently learning **Java DSA** and exploring **Machine Learning**
 - 💬 Ask me about **React, Node.js, MongoDB, Express, REST APIs**
 - 📫 Reach me at **piyushjha1134@gmail.com**
@@ -26,7 +26,7 @@
 | Project | Description | Tech | Links |
 |--------|-------------|------|-------|
 | 🛒 **Cartify** | Full-stack e-commerce app with AI shopping assistant, cart, wishlist, reviews & payment flow | React, Node, MongoDB, Express, Redux | [![Live](https://img.shields.io/badge/Live-00C853?style=flat&logo=vercel&logoColor=white)](https://cartifyy-orpin.vercel.app/) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/Piyush079-jha/cartify) |
-| 🌤️ **Nimbus Weather** | Real-time personal weather app with AQI, hourly forecast, dark mode & animated backgrounds | HTML, CSS, JavaScript | [![Live](https://img.shields.io/badge/Live-00C853?style=flat&logo=vercel&logoColor=white)](https://nimbus-personal-weather-app.vercel.app/) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/Piyush079-jha/Nimbus-Personal-Weather-App) |
+| 🌤️ **Nimbus Weather** | Real-time personal weather app with AQI, hourly forecast, dark mode & animated backgrounds | HTML, CSS, JavaScript | [![Live](https://img.shields.io/badge/Live-00C853?style=flat&logo=vercel&logoColor=white)](https://nimbus-personal-weather-app.vercel.app/) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/Piyush079-jha/Nimbus-Personal-Weather-App) | | 🏥 **Cliniqo** | AI-powered hospital management system with live video consultations, voice assistant for doctors, appointment booking & admin panel | React, Node, MongoDB, Express, WebRTC, Socket.IO | [![Live](https://img.shields.io/badge/Live-00C853?style=flat&logo=vercel&logoColor=white)](https://cliniqo-ten.vercel.app/) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/Piyush079-jha/-Cliniqo-) |
 
 ---
 
